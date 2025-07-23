@@ -1,15 +1,12 @@
 package entityclassassignment2;
 import java.util.Scanner;
-
-
-	class Product {
-	    // Fields to store product details
+   class Product {
 	    int productId;
 	    String name;
 	    double price;
 	    int quantity;
 
-	    // Constructor
+	
 	    public Product(int productId, String name, double price, int quantity) {
 	        this.productId = productId;
 	        this.name = name;
@@ -17,7 +14,6 @@ import java.util.Scanner;
 	        this.quantity = quantity;
 	    }
 
-	    // Method to display product details
 	    public void display() {
 	        System.out.println("Product ID: " + productId);
 	        System.out.println("Name: " + name);
