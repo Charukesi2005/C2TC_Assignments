@@ -1,4 +1,4 @@
-package constructor;
+package assignment3;
 import java.util.Scanner;
 public class ConstructorDemo {
 
@@ -39,8 +39,6 @@ public class ConstructorDemo {
 		System.out.println(c2);
 		
 		sc.close();
-		
-
 
 	}
 

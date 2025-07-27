@@ -1,4 +1,4 @@
-package entityclassassignment1;
+package assignment1.entityclassassignment1;
 import java.util.Scanner;
 
 	

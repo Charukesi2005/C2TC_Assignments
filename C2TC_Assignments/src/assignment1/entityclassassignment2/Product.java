@@ -1,4 +1,4 @@
-package entityclassassignment2;
+package assignment1.entityclassassignment2;
 import java.util.Scanner;
    class Product {
 	    int productId;
